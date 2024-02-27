@@ -2,6 +2,8 @@
 
 # GUPSHUP CASE STUDY
 
+> "A world where businesses engage consumers through personalized conversations." -Gupshup "Our Vision"
+
 ## OVERVIEW AND ORIGIN
 
 - **Name of Company:** Gupshup
@@ -14,6 +16,8 @@
 
 - **Funding:** Gupshup is funded through private equity and has raised $386 million dollars in consecutive funding rounds. The primary investor is Tiger Global Management but also include White Oak Global Advisors, Malabar Investments and Think Investments
 
+![image_1](image_1.png)
+
 ## Business Activities
 
 - **Product Business Solution:** Gupshup seeks to drive their clients’ revenue through a two-way, interactive messaging campaign platform. The product also allows companies to address multi-channel customer requests through an agent interface. Gupshup offers “Bot Studio” with over 30 domain specific chatbots as well as their own domain specific LLMs
@@ -22,8 +26,27 @@
 
 - **Product Differentiators:** As an early entrant into customer conversation automation, the platform is one of the most robust on the market and has the resources to integrate the newest technologies such as ChatGPT. Furthermore, they offer the largest range of domain specific chatbots to uniquely position themselves in the SMB space by allowing smaller customers to use automated conversational AI without a large investment.
 
+- **Core Product Features:**
+
+1. Campaign Manager: Personalized, interactive, two-way marketing campaigns at scale
+
+2. Bot Manager: Allows corporate organization such as marketing, product and support to create workflows using natural human conversation across multiple channels
+
+3. Agent Assist: Allows agents to view conversations from all digital channels to be accessed from a single interface. The platform can summarize all previous interactions into a concise statement for agents to quickly assist customers.
+
+4. Integrations: Over 1000 existing API to connect the platform to corporate systems
+
+5. Enterprise Security: Achieved a mulitude of security certifications such as ISO 27001, GDPR and SOC2 to secure corporate data and customer privacy
+
+6. Conversational AI: Uses technologies like Natural Language Understanding, Intent Detection and Sentiment Analysis to create human-like interactions
+
+7. Omnichannel: The Gupshup platform provides conversational messaging over 30 different channels through a single API
+
+8. Generative AI: The proprietary ACE LLM provides a trainable language model to meet the specific needs of the customers
+
 - **Technologies Used:** The Gupshup tech stack includes HTML5, CSS Java, Javascript, Angular JS, J2EE, JDBC, SQL, MySQL, Mongo DB, RESTful API and web services, GIT, Jenkins, AWS Cloud and ChatGPT-3
 
+![image_2](image_3.png)
 ## Landscape
 
 - **Industry:** Conversational Virtual Assistants
@@ -50,6 +73,8 @@
 3. Gupshup processes over ten billion messages per month
 
 4. The company now has a valuation of over $1.4 billion
+
+![image_2](image_2.png)
 
 ## Competitive Outlook
 
